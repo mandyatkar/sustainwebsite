@@ -1,0 +1,50 @@
+#Font {
+    font-size: 60px;
+    font-family: 'Bebas Neue', cursive;
+    color: green;
+    text-align: center;
+}
+/* this is for the title */
+
+h2 {
+    font-size: 25px;
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+    text-align: center;
+}
+/* this is for header 2 */
+
+.p {
+    font-size: 17.5px;
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+    text-align: center;
+}
+
+.List {
+    font-size: 40px;
+    font-family: 'Bebas Neue', cursive;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10px;
+    
+}
+
+.column {
+    flex: 25%;
+    max-width: 22.5%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
+
+}
